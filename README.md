@@ -1,6 +1,6 @@
 Hi, I’m @moubid,
-I’m interested in programming and cryptocurrency trade
-,I’m currently learning proffesional django
+I’m interested in programming and cryptocurrency
+,I’m a machine learning and deep learning and currently I am advancing my skills and knowledge
 ,I’m not looking to collaborate yet
  reach me:ig:@moubid,t.me/moubid
 
